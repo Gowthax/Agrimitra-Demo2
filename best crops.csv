@@ -1,0 +1,11 @@
+Crop,AvgPrice_INRkg,BuyerDemand_kg,Yield_kgHa,SuitableSoils,SuitableSeasons
+Rice,22.0,50000,4200,"Alluvial,Clay,Loamy","Kharif,Monsoon"
+Wheat,21.0,45000,3800,"Alluvial,Black,Loamy","Rabi,Winter"
+Maize,18.0,35000,5200,"Red,Black,Sandy","Kharif,Rabi"
+Cotton,85.0,8000,1800,"Black,Red,Sandy","Kharif,Monsoon"
+Sugarcane,3.2,120000,75000,"Alluvial,Black,Red","Kharif,Winter"
+Groundnut,95.0,12000,2100,"Sandy,Red,Black","Kharif,Summer"
+Soybean,68.0,25000,1800,"Black,Red,Alluvial","Kharif,Monsoon"
+Tomato,28.0,18000,35000,"Red,Black,Loamy","Rabi,Summer"
+Onion,35.0,30000,25000,"Black,Red,Alluvial","Rabi,Summer"
+Jowar,25.0,15000,2500,"Black,Red,Sandy","Kharif,Rabi"

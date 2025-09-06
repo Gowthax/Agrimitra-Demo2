@@ -1,0 +1,13 @@
+Location,DominantSoilType,CurrentSeason,AvgRainfall_mm,Top3SuitableCrops,MajorMarketsNearby
+Coimbatore,Black,Monsoon,210,"Cotton,Tomato,Maize",Erode Market
+Erode,Red,Kharif,185,"Cotton,Groundnut,Onion",Salem Market
+Salem,Red,Summer,120,"Tomato,Onion,Maize",Coimbatore Market
+Trichy,Alluvial,Rabi,280,"Rice,Sugarcane,Wheat",Thanjavur Mandi
+Varanasi,Alluvial,Kharif,340,"Rice,Wheat,Sugarcane",Varanasi Mandi
+Pune,Black,Monsoon,160,"Cotton,Soybean,Onion",Pune Agricultural Market
+Jaipur,Sandy,Rabi,65,"Groundnut,Jowar,Cotton",Jaipur Mandi
+Patna,Alluvial,Winter,295,"Rice,Wheat,Maize",Patna Mandi
+Hyderabad,Red,Summer,95,"Maize,Groundnut,Cotton",Secunderabad Market
+Nashik,Black,Rabi,145,"Onion,Soybean,Tomato",Nashik APMC
+Ludhiana,Alluvial,Winter,220,"Wheat,Rice,Maize",Ludhiana Grain Market
+Indore,Black,Kharif,175,"Soybean,Cotton,Maize",Indore Mandi

@@ -1,0 +1,21 @@
+BuyerName,Crop,MonthlyDemand_kg,PriceOffer_INRkg,Location,Contact
+Delhi Grain Traders,Rice,25000,21.5,"Delhi, NCR",9876543210
+Maharashtra Agri Co-op,Rice,25000,22.2,"Pune, Maharashtra",9876543211
+Punjab Wheat Corp,Wheat,22500,20.8,"Ludhiana, Punjab",9876543212
+Haryana Grain Mills,Wheat,22500,21.1,"Karnal, Haryana",9876543213
+Karnataka Maize Hub,Maize,17500,17.8,"Bangalore, Karnataka",9876543214
+Andhra Feed Industries,Maize,17500,18.1,"Hyderabad, Telangana",9876543215
+Gujarat Cotton Exchange,Cotton,4000,84.5,"Ahmedabad, Gujarat",9876543216
+Maharashtra Cotton Mills,Cotton,4000,85.2,"Nagpur, Maharashtra",9876543217
+Tamil Nadu Sugar Mills,Sugarcane,60000,3.1,"Chennai, Tamil Nadu",9876543218
+Karnataka Sugar Co-op,Sugarcane,60000,3.3,"Mysore, Karnataka",9876543219
+Rajasthan Oil Mills,Groundnut,6000,94.5,"Jaipur, Rajasthan",9876543220
+Gujarat Groundnut Corp,Groundnut,6000,95.2,"Rajkot, Gujarat",9876543221
+Madhya Pradesh Soy Corp,Soybean,12500,67.5,"Indore, Madhya Pradesh",9876543222
+Maharashtra Soy Mills,Soybean,12500,68.3,"Nashik, Maharashtra",9876543223
+Karnataka Vegetable Market,Tomato,9000,27.5,"Bangalore, Karnataka",9876543224
+Delhi Mandi Traders,Tomato,9000,28.2,"Delhi, NCR",9876543225
+Maharashtra Agri Co-op,Onion,15000,34.8,"Nashik, Maharashtra",9876543226
+Rajasthan Vegetable Hub,Onion,15000,35.1,"Jaipur, Rajasthan",9876543227
+Karnataka Grain Mills,Jowar,7500,24.8,"Bangalore, Karnataka",9876543228
+Maharashtra Millet Corp,Jowar,7500,25.2,"Aurangabad, Maharashtra",9876543229
